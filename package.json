@@ -71,7 +71,7 @@
     "@types/lodash.escape": "^4.0.6",
     "@types/node-fetch": "^2.5.10",
     "@types/sanitize-html": "^1.27.1",
-    "ajv": "^8.1.0",
+    "ajv": "^8.6.3",
     "ajv-formats": "^2.0.2",
     "aws-sdk": "2.814.0",
     "babel-plugin-prismjs": "^2.0.1",
